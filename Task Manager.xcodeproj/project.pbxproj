@@ -18,6 +18,7 @@
 		E81974D12C8AF19600FB902A /* OffsetKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81974D02C8AF19600FB902A /* OffsetKey.swift */; };
 		E81974D32C8AFD6700FB902A /* TaskRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81974D22C8AFD6700FB902A /* TaskRowView.swift */; };
 		E81974D52C8B052100FB902A /* NewTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81974D42C8B052100FB902A /* NewTaskView.swift */; };
+		E81974D72C8EEF1500FB902A /* TasksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81974D62C8EEF1500FB902A /* TasksView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		E81974D02C8AF19600FB902A /* OffsetKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetKey.swift; sourceTree = "<group>"; };
 		E81974D22C8AFD6700FB902A /* TaskRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskRowView.swift; sourceTree = "<group>"; };
 		E81974D42C8B052100FB902A /* NewTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskView.swift; sourceTree = "<group>"; };
+		E81974D62C8EEF1500FB902A /* TasksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				E81974CE2C8AE13900FB902A /* Home.swift */,
 				E81974D22C8AFD6700FB902A /* TaskRowView.swift */,
 				E81974D42C8B052100FB902A /* NewTaskView.swift */,
+				E81974D62C8EEF1500FB902A /* TasksView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				E81974BA2C8ADCB500FB902A /* ContentView.swift in Sources */,
 				E81974C72C8ADD0600FB902A /* Task.swift in Sources */,
 				E81974D52C8B052100FB902A /* NewTaskView.swift in Sources */,
+				E81974D72C8EEF1500FB902A /* TasksView.swift in Sources */,
 				E81974D32C8AFD6700FB902A /* TaskRowView.swift in Sources */,
 				E81974CA2C8AE03700FB902A /* View+Extensions.swift in Sources */,
 				E81974D12C8AF19600FB902A /* OffsetKey.swift in Sources */,
